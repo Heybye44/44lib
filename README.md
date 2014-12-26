@@ -9,7 +9,7 @@ I only plan do some very basic things with this. a.k.a. toggling fullscreen, qui
 =====
 To Do
 =====
--Add Timer
--Add Reset
--Make tutorial
--Add Pause
+-Add Timer /n
+-Add Reset /n
+-Make tutorial /n
+-Add Pause /n
