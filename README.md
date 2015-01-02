@@ -7,6 +7,14 @@
 I only plan do some very basic things with this. a.k.a. toggling fullscreen, quitting the game, restart the game, pausing the game.
 
 =====
+Tutorial
+=====
+To use the quitting tool place "killgame()" in the "love.update()" function.
+
+To use the fullscreen toggling tool place "togfull()" in the "love.update()" function.
+
+
+=====
 To Do
 =====
 -Add Timer 
